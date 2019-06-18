@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="dieti">
+    <file>DIETI.png</file>
+  </qresource>
+</RCC>

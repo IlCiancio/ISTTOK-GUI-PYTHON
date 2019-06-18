@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="photo_ipfn">
+    <file>IPFN_color.png</file>
+  </qresource>
+</RCC>
